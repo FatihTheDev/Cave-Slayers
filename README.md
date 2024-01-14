@@ -8,12 +8,15 @@ Tip: gather as much enemies as you can before activating special powers.
 
 # Abilities:
 Assassin: Eye of fire
+
 When the progress bar becomes full and special ability is activated, Assassin can defeat all enemies present on the screen with his eye of fire.
 
 Puppeteer: Infiltration
+
 When Puppeteer's special ability is activated, he is able to turn into one of the enemies for 10 seconds and defeat all enemies present on the screen.
 
 Jotham: Switcharoo
+
 When Jotham's special ability is activated, he is able to create a clone of himself as a decoy for the enemies. WHen the decoy is placed, enemies chase it, rather than the original Jotham. His abilty also lasts 10 seconds.
 
 # Credentials:

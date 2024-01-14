@@ -2,7 +2,7 @@
 "Cave Slayers" is a game in which three characters end up in a cave and try to defeat all monsters that come their way. Players can pick one of the three characters to use: Assassin, Puppeteer and Jotham. Each of the characters has a unique special ability, health and speed.
 
 # How to install?
-cDownload the zip file from https://fatihthedev.itch.io/cave-slayers, unzip it and run main.exe.
+Download the zip file from https://fatihthedev.itch.io/cave-slayers, unzip it and run main.exe.
 
 # Controls:
 'f' key - small punch | 'g' key - big punch | 's' key - special ability | arrow keys - move

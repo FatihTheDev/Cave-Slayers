@@ -3,6 +3,7 @@
 
 # Controls:
 'f' key - small punch | 'g' key - big punch | 's' key - special ability | arrow keys - move
+
 Tip: gather as much enemies as you can before activating special powers.
 
 # Abilities:
